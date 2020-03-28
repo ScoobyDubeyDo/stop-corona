@@ -58,7 +58,8 @@ h2 {
 }
 #main h2,
 #up h2,
-h3 {
+h3,
+h1 {
   color: #c52233;
 }
 a {
@@ -189,10 +190,6 @@ article p {
 }
 .footlink {
   padding: 0.3em 1em 0em 1em;
-  width: 4em;
-}
-#gmail {
-  padding: 0em 1em 0.2em 1em;
   width: 4em;
 }
 
