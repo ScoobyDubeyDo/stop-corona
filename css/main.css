@@ -195,11 +195,10 @@ article p {
 
 /* FOOTER */
 /* main */
-.mobile img {
-  width: 100vw;
-}
+
 .mobile {
   text-align: center;
+  margin-top: 50%;
 }
 .mobile h1 {
   text-decoration: underline;
